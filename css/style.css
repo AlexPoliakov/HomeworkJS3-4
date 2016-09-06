@@ -1,0 +1,27 @@
+
+@import "reset.css";
+@import "bootstrap-theme.css";
+@import "fonts.css";
+.box {
+    max-width: 970px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid black;
+
+
+}
+
+.head {
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'league_gothicregular', Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.button {
+    margin: 0 auto;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+
